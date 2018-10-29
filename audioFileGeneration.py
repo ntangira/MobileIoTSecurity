@@ -126,5 +126,5 @@ if __name__ == '__main__':
     # for x in range(10):
     #     print (random.randint(1, 101))
 
-    record_to_file('voicePrint.wav')
+    record_to_file('voicePrint_toVerify.wav')
     print("done - successfully created wav file")
